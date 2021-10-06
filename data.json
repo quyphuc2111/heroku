@@ -1,17 +1,3968 @@
 [
-    {
-        "name": "Alo",
-        "team": "aloo",
-        "pointsPerGame": 27
-    },
-    {
-        "name": "Alfo",
-        "team": "aloos",
-        "pointsPerGame": 24
-    },
-    {
-        "name": "Aloe",
-        "team": "alooz",
-        "pointsPerGame": 23
-    }
+  {
+    "url": "https://cellphones.com.vn/iphone-11.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/l/a/layer_20.jpg",
+    "name": "iPhone 11 I Chính hãng VN/A",
+    "old_price": 18000000,
+    "special_price": 14500000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_20.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_layer_6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_layer_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_19.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_21.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_18.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/4/i/4iphone-11-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-do-21_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-do-3-1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-trang_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-trang-3-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-vang_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-vang-3_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-tim-2_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-tim-3-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-den-2-22_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-den-3-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/4/8/4824327_cover_iphone-11-mint211_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-xanh-la-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11-xanh-la-3_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_11_purple_hero_alt_horizontal_cropped_us-en_print_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_11_red_rosette_vertical_us-en_print_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_20_3.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "IPS LCD"
+      },
+      {
+        "name": "Camera sau",
+        "value": "Camera kép 12MP: - Camera góc rộng: ƒ/1.8 aperture - Camera siêu rộng: ƒ/2.4 aperture"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, ƒ/2.2 aperture"
+      },
+      {
+        "name": "Chipset",
+        "value": "A13 Bionic"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "64 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "3110 mAh"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "Nano-SIM + eSIM"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 13 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1792 x 828 pixel"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "True-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Quay video",
+        "value": "Quay video 4K ở tốc độ 24 fps, 30 fps hoặc 60 fps"
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "150.9mm - 75.7mm - 8.3mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "194 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 18WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "802.11ax Wi‑Fi 6 with 2x2 MIMO"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0"
+      },
+      {
+        "name": "GPS",
+        "value": "GPS/GNSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Sạc không dây"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256 GB",
+        "price": 18500000,
+        "color": []
+      },
+      {
+        "capacity": "128 GB",
+        "price": 16000000,
+        "color": [
+          {
+            "color": "Tím ",
+            "price": 16000000
+          },
+          {
+            "color": "Trắng",
+            "price": 16000000
+          },
+          {
+            "color": "Vàng",
+            "price": 16000000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 16200000
+          },
+          {
+            "color": "Đen",
+            "price": 16200000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16000000
+          }
+        ]
+      },
+      {
+        "capacity": "64 GB",
+        "price": 14500000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 14700000
+          },
+          {
+            "color": "Trắng",
+            "price": 14700000
+          },
+          {
+            "color": "Vàng",
+            "price": 14700000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 14700000
+          },
+          {
+            "color": "Đen ",
+            "price": 14500000
+          },
+          {
+            "color": "Đỏ",
+            "price": 14500000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro-max.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_1__7_1.jpg",
+    "name": "iPhone 12 Pro Max I Chính hãng VN/A",
+    "old_price": 32990000,
+    "special_price": 28950000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__7_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__7.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4__7.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2__7.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-12-pro-max-xanh-1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone12_3_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__7.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphone-12-pro-max-nonlogo-17_1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone-12-pro-max-nonlogo-12_1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone-12-pro-max-nonlogo-10_1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone-12-pro-max-nonlogo-6_1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone-12-pro-max-nonlogo-11_1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone-12-pro-max-nonlogo-5_1_1.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "Camera chính: 12 MP, f/1.6, 26mm, 1.4µm, dual pixel PDAF, OIS Camera tele: 12 MP, f/2.0, 52mm, 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom Camera góc siêu rộng: 12 MP, f/2.4, 120˚, 13mm, 1/3.6\" Cảm biến: TOF 3D LiDAR scanner"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-toneĐộ sáng 800 nits"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228 "
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": " A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Sạc không dây"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 38000000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 38000000
+          },
+          {
+            "color": "Vàng",
+            "price": 38000000
+          },
+          {
+            "color": "Xám",
+            "price": 38000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 38000000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 31850000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31850000
+          },
+          {
+            "color": "Vàng",
+            "price": 31850000
+          },
+          {
+            "color": "Xám",
+            "price": 31850000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 31850000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 28950000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28950000
+          },
+          {
+            "color": "Vàng",
+            "price": 28950000
+          },
+          {
+            "color": "Xám",
+            "price": 28950000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28950000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_2__3.jpg",
+    "name": "iPhone 12 I Chính hãng VN/A",
+    "old_price": 22990000,
+    "special_price": 18800000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/1/2/121775005_214053020136993_4215871422753310748_n_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-2-do-11_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-do-2_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-la-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-la-22_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-xanh-duong-2_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-xanh-duong-3-org_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-den-11_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-2-den_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-trang-22_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-trang-1_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1__3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4__3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2__3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3__3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0003_iphone12mini-14.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0001_iphone12mini-10.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0004_iphone12mini-15.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0000_iphone12mini-9.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0002_iphone12mini-12.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/g/s/gsmarena_041_1.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "64 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "164 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Sạc không dây"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 24000000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 24000000
+          },
+          {
+            "color": "Trắng",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 24000000
+          },
+          {
+            "color": "Đen",
+            "price": 24000000
+          },
+          {
+            "color": "Đỏ",
+            "price": 24000000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 20400000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 20400000
+          },
+          {
+            "color": "Trắng",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 20600000
+          },
+          {
+            "color": "Đen",
+            "price": 20400000
+          },
+          {
+            "color": "Đỏ ",
+            "price": 20400000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 18800000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 18800000
+          },
+          {
+            "color": "Trắng",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 18800000
+          },
+          {
+            "color": "Đen",
+            "price": 18800000
+          },
+          {
+            "color": "Đỏ",
+            "price": 18800000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-11-128gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/l/a/layer_20_1.jpg",
+    "name": "iPhone 11 128GB I Chính hãng VN/A",
+    "old_price": 19900000,
+    "special_price": 16000000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_6_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_2_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_19_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_21_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_18_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_20_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_11_purple_hero_alt_horizontal_cropped_us-en_print.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_11_red_rosette_vertical_us-en_print.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_2__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_1__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_4__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_3__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/4/9/499c08d6ec13cd33b33ee601d9e4251e.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "IPS LCD"
+      },
+      {
+        "name": "Camera sau",
+        "value": "Camera kép 12MP: - Camera góc rộng: ƒ/1.8 aperture - Camera siêu rộng: ƒ/2.4 aperture"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, ƒ/2.2 aperture"
+      },
+      {
+        "name": "Chipset",
+        "value": "A13 Bionic"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "3110 mAh"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "Nano-SIM + eSIM"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 13 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1792 x 828 pixel"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "True-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Quay video",
+        "value": "Quay video 4K ở tốc độ 24 fps, 30 fps hoặc 60 fps"
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "150.9mm - 75.7mm - 8.3mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "194 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 18WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "802.11ax Wi‑Fi 6 with 2x2 MIMO"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0"
+      },
+      {
+        "name": "GPS",
+        "value": "GPS/GNSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256 GB",
+        "price": 18500000,
+        "color": []
+      },
+      {
+        "capacity": "128 GB",
+        "price": 16000000,
+        "color": [
+          {
+            "color": "Tím ",
+            "price": 16000000
+          },
+          {
+            "color": "Trắng",
+            "price": 16000000
+          },
+          {
+            "color": "Vàng",
+            "price": 16000000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 16200000
+          },
+          {
+            "color": "Đen",
+            "price": 16200000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16000000
+          }
+        ]
+      },
+      {
+        "capacity": "64 GB",
+        "price": 14500000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 14700000
+          },
+          {
+            "color": "Trắng",
+            "price": 14700000
+          },
+          {
+            "color": "Vàng",
+            "price": 14700000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 14700000
+          },
+          {
+            "color": "Đen ",
+            "price": 14500000
+          },
+          {
+            "color": "Đỏ",
+            "price": 14500000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/apple-iphone-xr-64-gb-chinh-hang-vn.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_3_.jpg",
+    "name": "iPhone XR 64GB I Chính hãng VN/A",
+    "old_price": 14990000,
+    "special_price": 12000000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/d/s/dscf2172_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_3_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_1_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_4_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/m/img_7262_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_5_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_2_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphonexr-yellow-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphonexr-blue-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphonexr-coral-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphonexr-white-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphonexr-productred-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphonexr-black-360_us-en-screen.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/d/s/dscf2222_3.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "IPS LCD"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12MP"
+      },
+      {
+        "name": "Camera trước",
+        "value": "7MP"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A12 Bionic"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "3 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "64 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "2942mAh"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "Nano-SIM"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1792 x 828 pixel"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "True-tone, tần số quét 60Hz, mật độ điểm ảnh 326 ppi"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Quay video",
+        "value": "2160p@30fps, 1080p@30/60fps, 1080p@120fps, 720p@240fps"
+      },
+      {
+        "name": "Quay video trước",
+        "value": "1080p@60fps"
+      },
+      {
+        "name": "Kích thước",
+        "value": "150,9 x 75,7 x 8,3 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "194 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac, 2 ăng-ten, điểm truy cập cá nhân"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "v5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp xóa phông, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "128 GB",
+        "price": 13200000,
+        "color": [
+          {
+            "color": "Cam",
+            "price": 13200000
+          },
+          {
+            "color": "Trắng",
+            "price": 13200000
+          },
+          {
+            "color": "Vàng",
+            "price": 13200000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 13200000
+          },
+          {
+            "color": "Đen ",
+            "price": 13200000
+          },
+          {
+            "color": "Đỏ",
+            "price": 13200000
+          }
+        ]
+      },
+      {
+        "capacity": "64 GB",
+        "price": 12000000,
+        "color": [
+          {
+            "color": "Cam",
+            "price": 12000000
+          },
+          {
+            "color": "Trắng",
+            "price": 12000000
+          },
+          {
+            "color": "Vàng",
+            "price": 12000000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 12000000
+          },
+          {
+            "color": "Đen ",
+            "price": 12000000
+          },
+          {
+            "color": "Đỏ",
+            "price": 12000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_3__9.jpg",
+    "name": "iPhone 12 Pro I Chính hãng VN/A",
+    "old_price": 30990000,
+    "special_price": 26550000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__9.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone12_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-vang-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-vang-3-org.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-xam-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-xam-3-org_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-xanh-3-org.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-xanh-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-bac-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-bac-3-org.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphone-12-pro-max-nonlogo-17_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone-12-pro-max-nonlogo-11_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone-12-pro-max-nonlogo-10_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone-12-pro-max-nonlogo-12_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone-12-pro-max-nonlogo-6_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone-12-pro-max-nonlogo-5_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__9_4.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "189 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 31500000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31500000
+          },
+          {
+            "color": "Vàng ",
+            "price": 31500000
+          },
+          {
+            "color": "Xám",
+            "price": 31500000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 31500000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 28400000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28400000
+          },
+          {
+            "color": "Vàng",
+            "price": 28400000
+          },
+          {
+            "color": "Xám",
+            "price": 28400000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28400000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 26550000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 26550000
+          },
+          {
+            "color": "Vàng",
+            "price": 26550000
+          },
+          {
+            "color": "Xám",
+            "price": 26550000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 26550000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-128gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_7__6_3.jpg",
+    "name": "iPhone 12 128GB I Chính hãng VN/A",
+    "old_price": 24990000,
+    "special_price": 20400000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0004_iphone12mini-15_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0002_iphone12mini-12_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0001_iphone12mini-10_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0003_iphone12mini-14_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0000_iphone12mini-9_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6_3_1.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "164 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 24000000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 24000000
+          },
+          {
+            "color": "Trắng",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 24000000
+          },
+          {
+            "color": "Đen",
+            "price": 24000000
+          },
+          {
+            "color": "Đỏ",
+            "price": 24000000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 20400000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 20400000
+          },
+          {
+            "color": "Trắng",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 20600000
+          },
+          {
+            "color": "Đen",
+            "price": 20400000
+          },
+          {
+            "color": "Đỏ ",
+            "price": 20400000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 18800000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 18800000
+          },
+          {
+            "color": "Trắng",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 18800000
+          },
+          {
+            "color": "Đen",
+            "price": 18800000
+          },
+          {
+            "color": "Đỏ",
+            "price": 18800000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-mini.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_7__6_1.jpg",
+    "name": "iPhone 12 mini I Chính hãng VN/A",
+    "old_price": 18990000,
+    "special_price": 15490000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2_.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone_12-mini-tim.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-duong-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-duong-xanh-1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-la-1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-xanh-la-22.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-den-11.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-2-den.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-trang-1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-trang-22.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-2-do-11.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-mini-do-2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0004_iphone12mini-15_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0001_iphone12mini-10_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0003_iphone12mini-14_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0000_iphone12mini-9_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0002_iphone12mini-12_1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6_1_1.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "5.4 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "64 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1080 x 2340 pixels (FullHD+)"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "131.5 x 64.2 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "135 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chống rung"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Sạc không dây"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 20000000,
+        "color": []
+      },
+      {
+        "capacity": "128GB",
+        "price": 16790000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 16790000
+          },
+          {
+            "color": "Trắng",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 16790000
+          },
+          {
+            "color": "Đen",
+            "price": 16790000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16790000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 15490000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 15490000
+          },
+          {
+            "color": "Trắng",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 15490000
+          },
+          {
+            "color": "Đen",
+            "price": 15490000
+          },
+          {
+            "color": "Đỏ",
+            "price": 15490000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro-max-256gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_3__5.jpg",
+    "name": "iPhone 12 Pro Max 256GB I Chính hãng VN/A",
+    "old_price": 36990000,
+    "special_price": 31850000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_pro_pacific_blue_hero_2-up_lean_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_pro_graphite_hero_2-up_lean_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_pro_gold_hero_2-up_lean_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_pro_silver_hero_2-up_lean_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphone-12-pro-max-nonlogo-17_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone-12-pro-max-nonlogo-11_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone-12-pro-max-nonlogo-10_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone-12-pro-max-nonlogo-6_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone-12-pro-max-nonlogo-12_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone-12-pro-max-nonlogo-5_1_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__8_2.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "256 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 18W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-toneĐộ sáng 800 nits"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228 "
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": " A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 38000000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 38000000
+          },
+          {
+            "color": "Vàng",
+            "price": 38000000
+          },
+          {
+            "color": "Xám",
+            "price": 38000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 38000000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 31850000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31850000
+          },
+          {
+            "color": "Vàng",
+            "price": 31850000
+          },
+          {
+            "color": "Xám",
+            "price": 31850000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 31850000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 28950000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28950000
+          },
+          {
+            "color": "Vàng",
+            "price": 28950000
+          },
+          {
+            "color": "Xám",
+            "price": 28950000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28950000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/apple-iphone-xr-128-gb-chinh-hang-vn.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_1__1.jpg",
+    "name": "iPhone XR 128GB I Chính hãng VN/A",
+    "old_price": 16990000,
+    "special_price": 13200000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/d/s/dscf2222_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/d/s/dscf2172_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/m/img_7262_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_1__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_3__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_4__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_5__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_2__1.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/p/apple-iphone-xr-64-gb-chinh-hang.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "IPS LCD"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12MP"
+      },
+      {
+        "name": "Camera trước",
+        "value": "7MP"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A12 Bionic"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "3 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "2942mAh"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "Nano-SIM"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 12"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1792 x 828 pixel"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "True-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Quay video",
+        "value": "2160p@30fps, 1080p@30/60fps, 1080p@120fps, 720p@240fps"
+      },
+      {
+        "name": "Quay video trước",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Kích thước",
+        "value": "150,9 x 75,7 x 8,3 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "194 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac, 2 ăng-ten, điểm truy cập cá nhân"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "v5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "128 GB",
+        "price": 13200000,
+        "color": [
+          {
+            "color": "Cam",
+            "price": 13200000
+          },
+          {
+            "color": "Trắng",
+            "price": 13200000
+          },
+          {
+            "color": "Vàng",
+            "price": 13200000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 13200000
+          },
+          {
+            "color": "Đen ",
+            "price": 13200000
+          },
+          {
+            "color": "Đỏ",
+            "price": 13200000
+          }
+        ]
+      },
+      {
+        "capacity": "64 GB",
+        "price": 12000000,
+        "color": [
+          {
+            "color": "Cam",
+            "price": 12000000
+          },
+          {
+            "color": "Trắng",
+            "price": 12000000
+          },
+          {
+            "color": "Vàng",
+            "price": 12000000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 12000000
+          },
+          {
+            "color": "Đen ",
+            "price": 12000000
+          },
+          {
+            "color": "Đỏ",
+            "price": 12000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-11-256gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/l/a/layer_20_2.jpg",
+    "name": "iPhone 11 256GB I Chính hãng VN/A",
+    "old_price": 22000000,
+    "special_price": 18500000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_2__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_6__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_19_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_21_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_18_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/layer_20_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_4__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_1__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_3__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-11_2__5.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "Camera kép 12MP: - Camera góc rộng: ƒ/1.8 aperture - Camera siêu rộng: ƒ/2.4 aperture"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, ƒ/2.2 aperture"
+      },
+      {
+        "name": "Chipset",
+        "value": "A13 Bionic"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "256 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "3110 mAh"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "Nano-SIM + eSIM"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 13 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1792 x 828 pixel"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "True-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "6 nhân: 2 nhân Lightning 2.65GHz & 4 nhân Thunder 1.8GHz"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU"
+      },
+      {
+        "name": "Quay video",
+        "value": "Quay video 4K ở tốc độ 24 fps, 30 fps hoặc 60 fps"
+      },
+      {
+        "name": "Quay video trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\""
+      },
+      {
+        "name": "Kích thước",
+        "value": "150.9mm - 75.7mm - 8.3mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "194 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 18WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "802.11ax Wi‑Fi 6 with 2x2 MIMO"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0"
+      },
+      {
+        "name": "GPS",
+        "value": "GPS/GNSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256 GB",
+        "price": 18500000,
+        "color": []
+      },
+      {
+        "capacity": "128 GB",
+        "price": 16000000,
+        "color": [
+          {
+            "color": "Tím ",
+            "price": 16000000
+          },
+          {
+            "color": "Trắng",
+            "price": 16000000
+          },
+          {
+            "color": "Vàng",
+            "price": 16000000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 16200000
+          },
+          {
+            "color": "Đen",
+            "price": 16200000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16000000
+          }
+        ]
+      },
+      {
+        "capacity": "64 GB",
+        "price": 14500000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 14700000
+          },
+          {
+            "color": "Trắng",
+            "price": 14700000
+          },
+          {
+            "color": "Vàng",
+            "price": 14700000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 14700000
+          },
+          {
+            "color": "Đen ",
+            "price": 14500000
+          },
+          {
+            "color": "Đỏ",
+            "price": 14500000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-mini-128gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_7__6_2.jpg",
+    "name": "iPhone 12 mini 128GB I Chính hãng VN/A",
+    "old_price": 20990000,
+    "special_price": 16790000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1__4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0004_iphone12mini-15_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0002_iphone12mini-12_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0003_iphone12mini-14_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0001_iphone12mini-10_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0000_iphone12mini-9_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6_2.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "5.4 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "128 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1080 x 2340 pixels (FullHD+)"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "131.5 x 64.2 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "135 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 20000000,
+        "color": []
+      },
+      {
+        "capacity": "128GB",
+        "price": 16790000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 16790000
+          },
+          {
+            "color": "Trắng",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 16790000
+          },
+          {
+            "color": "Đen",
+            "price": 16790000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16790000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 15490000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 15490000
+          },
+          {
+            "color": "Trắng",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 15490000
+          },
+          {
+            "color": "Đen",
+            "price": 15490000
+          },
+          {
+            "color": "Đỏ",
+            "price": 15490000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro-max-512gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_3__6.jpg",
+    "name": "iPhone 12 Pro Max 512GB I Chính hãng VN/A",
+    "old_price": 42990000,
+    "special_price": 38000000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2__6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4__6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_pro_pacific_blue_hero_2-up_lean_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_pro_graphite_hero_2-up_lean_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_pro_silver_hero_2-up_lean_cropped_screen__usen_4.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_pro_gold_hero_2-up_lean_cropped_screen__usen_4.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "512 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-toneĐộ sáng 800 nits"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228 "
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": " A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 38000000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 38000000
+          },
+          {
+            "color": "Vàng",
+            "price": 38000000
+          },
+          {
+            "color": "Xám",
+            "price": 38000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 38000000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 31850000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31850000
+          },
+          {
+            "color": "Vàng",
+            "price": 31850000
+          },
+          {
+            "color": "Xám",
+            "price": 31850000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 31850000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 28950000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28950000
+          },
+          {
+            "color": "Vàng",
+            "price": 28950000
+          },
+          {
+            "color": "Xám",
+            "price": 28950000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28950000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro-256gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_3__8.jpg",
+    "name": "iPhone 12 Pro 256GB I Chính hãng VN/A",
+    "old_price": 33990000,
+    "special_price": 28400000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__8.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4__8.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__8.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2__8.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphone-12-pro-max-nonlogo-17_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone-12-pro-max-nonlogo-11_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone-12-pro-max-nonlogo-6_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone-12-pro-max-nonlogo-12_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone-12-pro-max-nonlogo-5_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone-12-pro-max-nonlogo-10_1_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__8_1.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "256 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "189 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 31500000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31500000
+          },
+          {
+            "color": "Vàng ",
+            "price": 31500000
+          },
+          {
+            "color": "Xám",
+            "price": 31500000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 31500000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 28400000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28400000
+          },
+          {
+            "color": "Vàng",
+            "price": 28400000
+          },
+          {
+            "color": "Xám",
+            "price": 28400000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28400000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 26550000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 26550000
+          },
+          {
+            "color": "Vàng",
+            "price": 26550000
+          },
+          {
+            "color": "Xám",
+            "price": 26550000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 26550000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-256gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_7__7.jpg",
+    "name": "iPhone 12 256GB I Chính hãng VN/A",
+    "old_price": 26990000,
+    "special_price": 24000000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3__2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__7.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen_5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen_5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen_5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen_5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen_5.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "256 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "164 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 24000000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 24000000
+          },
+          {
+            "color": "Trắng",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh",
+            "price": 24000000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 24000000
+          },
+          {
+            "color": "Đen",
+            "price": 24000000
+          },
+          {
+            "color": "Đỏ",
+            "price": 24000000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 20400000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 20400000
+          },
+          {
+            "color": "Trắng",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh",
+            "price": 20400000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 20600000
+          },
+          {
+            "color": "Đen",
+            "price": 20400000
+          },
+          {
+            "color": "Đỏ ",
+            "price": 20400000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 18800000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 18800000
+          },
+          {
+            "color": "Trắng",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 18800000
+          },
+          {
+            "color": "Xanh lá",
+            "price": 18800000
+          },
+          {
+            "color": "Đen",
+            "price": 18800000
+          },
+          {
+            "color": "Đỏ",
+            "price": 18800000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-pro-512gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_3__10.jpg",
+    "name": "iPhone 12 Pro 512GB I Chính hãng VN/A",
+    "old_price": 38990000,
+    "special_price": 31500000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_1__9.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_2__9.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_4__9.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12-pro-max_3__10.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_pro_pacific_blue_hero_2-up_lean_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_pro_graphite_hero_2-up_lean_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_pro_gold_hero_2-up_lean_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_pro_silver_hero_2-up_lean_cropped_screen__usen_2.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0005_iphone-12-pro-max-nonlogo-17_1_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone-12-pro-max-nonlogo-11_1_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone-12-pro-max-nonlogo-10_1_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone-12-pro-max-nonlogo-6_1_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone-12-pro-max-nonlogo-5_1_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone-12-pro-max-nonlogo-12_1_3.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.1 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "6 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "512 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1170 x 2532 pixels"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "HDR10Dolby VisionTrue-tone"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EISSau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "146.7 x 71.5 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "189 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "512GB",
+        "price": 31500000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 31500000
+          },
+          {
+            "color": "Vàng ",
+            "price": 31500000
+          },
+          {
+            "color": "Xám",
+            "price": 31500000
+          },
+          {
+            "color": "Xanh dương",
+            "price": 31500000
+          }
+        ]
+      },
+      {
+        "capacity": "256GB",
+        "price": 28400000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 28400000
+          },
+          {
+            "color": "Vàng",
+            "price": 28400000
+          },
+          {
+            "color": "Xám",
+            "price": 28400000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 28400000
+          }
+        ]
+      },
+      {
+        "capacity": "128GB",
+        "price": 26550000,
+        "color": [
+          {
+            "color": "Bạc",
+            "price": 26550000
+          },
+          {
+            "color": "Vàng",
+            "price": 26550000
+          },
+          {
+            "color": "Xám",
+            "price": 26550000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 26550000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://cellphones.com.vn/iphone-12-mini-256gb.html",
+    "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12_7__6.jpg",
+    "name": "iPhone 12 mini 256GB I Chính hãng VN/A",
+    "old_price": 22990000,
+    "special_price": 20000000,
+    "images": [
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_2__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_4__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_3__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_1__5.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/iphone-12_7__6.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0004_iphone_12_green_hero_2-up_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0003_iphone_12_red_hero_2-up_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0002_iphone_12_white_hero_2-up_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0000_iphone_12_blue_hero_2-up_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/_/0/_0001_iphone_12_black_hero_2-up_cropped_screen__usen_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0004_iphone12mini-15_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0001_iphone12mini-10_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0003_iphone12mini-14_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0000_iphone12mini-9_3.jpg",
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/u/n/untitled-1_0002_iphone12mini-12_3.jpg"
+    ],
+    "tskt": [
+      {
+        "name": "Kích thước màn hình",
+        "value": "5.4 inches"
+      },
+      {
+        "name": "Công nghệ màn hình",
+        "value": "OLED"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\""
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Chipset",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "Dung lượng RAM",
+        "value": "4 GB"
+      },
+      {
+        "name": "Bộ nhớ trong",
+        "value": "256 GB"
+      },
+      {
+        "name": "Pin",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Thẻ SIM",
+        "value": "2 SIM (nano‑SIM và eSIM)"
+      },
+      {
+        "name": "Hệ điều hành",
+        "value": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      {
+        "name": "Độ phân giải màn hình",
+        "value": "1080 x 2340 pixels (FullHD+)"
+      },
+      {
+        "name": "Tính năng màn hình",
+        "value": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0"
+      },
+      {
+        "name": "Loại CPU",
+        "value": "Hexa-core"
+      },
+      {
+        "name": "GPU",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Quay video",
+        "value": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec."
+      },
+      {
+        "name": "Quay video trước",
+        "value": "4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      {
+        "name": "Kích thước",
+        "value": "131.5 x 64.2 x 7.4 mm"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "135 g"
+      },
+      {
+        "name": "Chất liệu mặt lưng",
+        "value": "Kính"
+      },
+      {
+        "name": "Chất liệu khung viền",
+        "value": "Kim loại"
+      },
+      {
+        "name": "Công nghệ sạc",
+        "value": "Sạc nhanh 20WSạc nhanh không dây 15WPower Delivery 2.0"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Hồng ngoại",
+        "value": "Không"
+      },
+      {
+        "name": "Jack tai nghe 3.5",
+        "value": "Không"
+      },
+      {
+        "name": "Cảm biến vân tay",
+        "value": "Không"
+      },
+      {
+        "name": "Các loại cảm biến",
+        "value": "Cảm biến ánh sáng, Cảm biến áp kế, Cảm biến gia tốc, Cảm biến tiệm cận, Con quay hồi chuyển, La bàn"
+      },
+      {
+        "name": "Công nghệ NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Khe cắm thẻ nhớ",
+        "value": "Không"
+      },
+      {
+        "name": "Wi-Fi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.0, A2DP, LE"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Kiểu màn hình",
+        "value": "Tai thỏ"
+      },
+      {
+        "name": "Tính năng camera",
+        "value": "Chụp góc rộng, Chụp xóa phông, Chụp Zoom xa, Chống rung, Quay video 4K"
+      },
+      {
+        "name": "Tính năng đặc biệt",
+        "value": "Hỗ trợ 5G, Kháng nước, kháng bụi, Sạc không dây, Nhận diện khuôn mặt"
+      }
+    ],
+    "capacities": [
+      {
+        "capacity": "256GB",
+        "price": 20000000,
+        "color": []
+      },
+      {
+        "capacity": "128GB",
+        "price": 16790000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 16790000
+          },
+          {
+            "color": "Trắng",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh",
+            "price": 16790000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 16790000
+          },
+          {
+            "color": "Đen",
+            "price": 16790000
+          },
+          {
+            "color": "Đỏ",
+            "price": 16790000
+          }
+        ]
+      },
+      {
+        "capacity": "64GB",
+        "price": 15490000,
+        "color": [
+          {
+            "color": "Tím",
+            "price": 15490000
+          },
+          {
+            "color": "Trắng",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh",
+            "price": 15490000
+          },
+          {
+            "color": "Xanh dương ",
+            "price": 15490000
+          },
+          {
+            "color": "Đen",
+            "price": 15490000
+          },
+          {
+            "color": "Đỏ",
+            "price": 15490000
+          }
+        ]
+      }
+    ]
+  }
 ]
