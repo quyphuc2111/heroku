@@ -11,43 +11,43 @@ const corsOptions ={
 }
 app.use(cors(corsOptions));
 
-app.get("/getall",(req, res) => {
+app.get("/product",(req, res) => {
     res.send(importData);
 })
-app.get("/apple", (req,res) => {
+app.get("/product/apple", (req,res) => {
     res.send(importData.apple)
 })
-app.get("/samsung", (req,res) => {
+app.get("/product/samsung", (req,res) => {
     res.send(importData.samsung)
 })
-app.get("/xiaomi", (req,res) => {
+app.get("/product/xiaomi", (req,res) => {
     res.send(importData.xiaomi)
 })
-app.get("/oppo", (req,res) => {
+app.get("/product/oppo", (req,res) => {
     res.send(importData.oppo)
 })
-app.get("/oppo", (req,res) => {
+app.get("/product/oppo", (req,res) => {
     res.send(importData.oppo)
 })
-app.get("/realme", (req,res) => {
+app.get("/product/realme", (req,res) => {
     res.send(importData.realme)
 })
-app.get("/nokia", (req,res) => {
+app.get("/product/nokia", (req,res) => {
     res.send(importData.nokia)
 })
-app.get("/vsmart", (req,res) => {
+app.get("/product/vsmart", (req,res) => {
     res.send(importData.vsmart)
 })
-app.get("/vivo", (req,res) => {
+app.get("/product/vivo", (req,res) => {
     res.send(importData.vivo)
 })
-app.get("/asus", (req,res) => {
+app.get("/product/asus", (req,res) => {
     res.send(importData.asus)
 })
-app.get("/oneplus", (req,res) => {
+app.get("/product/oneplus", (req,res) => {
     res.send(importData.oneplus)
 })
-app.get("/nubia", (req,res) => {
+app.get("/product/nubia", (req,res) => {
     res.send(importData.nubia)
 })
 
