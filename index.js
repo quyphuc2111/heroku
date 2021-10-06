@@ -4,7 +4,7 @@ let port = process.env.PORT || 3000;
 const importData = require("./data.json")
 
 
-app.get("/",(req, res) => {
+app.get("/getall",(req, res) => {
     res.send(importData);
 })
 app.get("/apple", (req,res) => {
